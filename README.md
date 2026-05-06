@@ -23,7 +23,7 @@ SQL analysis on Amazon product & review dataset
 
 --4.Retrieve all products where the name contains the word "Cable.
 
-<img width="741" height="458" alt="image" src="https://github.com/user-attachments/assets/aca96911-a96c-49cb-a76e-693777ad854e" />
+<img width="619" height="249" alt="image" src="https://github.com/user-attachments/assets/e2336efb-0447-489a-8f27-64181d1b4404" />
 
 --5.Query reviews that mention "fast charging" in their content.
 
