@@ -12,7 +12,7 @@ Analyze Amazon product and review data to extract business insights using SQL.
 
 
 
---1.Products with a discounted price below ₹500.
+## 1.Products with a discounted price below ₹500.
 
 <img width="670" height="238" alt="image" src="https://github.com/user-attachments/assets/13e27204-5232-49c7-904f-4ff4e4b3a662" />
 
