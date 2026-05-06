@@ -18,8 +18,7 @@ SQL analysis on Amazon product & review dataset
 
 --3.Display the difference between the average of the actual price and the average of discounted price for each product.
 
-<img width="722" height="436" alt="image" src="https://github.com/user-attachments/assets/c1e295c8-dbf8-4202-abc6-2b6a99335803" />
-
+<img width="690" height="290" alt="image" src="https://github.com/user-attachments/assets/8310ccf9-9e3c-486e-9efa-c450bdd737dc" />
 
 --4.Retrieve all products where the name contains the word "Cable.
 
