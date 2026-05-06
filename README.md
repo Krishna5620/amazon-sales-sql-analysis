@@ -6,14 +6,16 @@ SQL analysis on Amazon product & review dataset
 
 
 
+
+
 --1.Products with a discounted price below ₹500.
 
-<img width="721" height="148" alt="image" src="https://github.com/user-attachments/assets/61b084ff-ec07-4d0d-8317-dce55e7f90da" />
+<img width="670" height="238" alt="image" src="https://github.com/user-attachments/assets/13e27204-5232-49c7-904f-4ff4e4b3a662" />
 
 
 --2.Find products with a discount percentage of 50% or more
 
-<img width="721" height="256" alt="image" src="https://github.com/user-attachments/assets/9d964b73-fec2-4c2e-b246-4dfd955dc013" />
+<img width="721" height="148" alt="image" src="https://github.com/user-attachments/assets/61b084ff-ec07-4d0d-8317-dce55e7f90da" />
 
 
 --3.Display the difference between the average of the actual price and the average of discounted price for each product.
