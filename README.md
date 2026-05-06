@@ -2,6 +2,10 @@
 
 SQL analysis on Amazon product & review dataset
 
+📊 Objective
+
+Analyze Amazon product and review data to extract business insights using SQL.
+
 <img width="1305" height="993" alt="image" src="https://github.com/user-attachments/assets/51148867-3ddc-47d0-a3c6-73ce94e61e85" />
 
 
